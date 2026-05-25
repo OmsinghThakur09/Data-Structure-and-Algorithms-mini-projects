@@ -394,32 +394,25 @@ All projects use Python standard library only - no `pip install` required!
 ---
 
 ## 📁 Repository Structure
-Data_Structures/
-│
-├── Graph/
-│   ├── graph.py
-│   ├── weightedgraph.py
-│   ├── route_planner.py
-│   ├── social_network.py
-│   ├── main_routeplanner.py
-│   └── main_socialnetwork.py
-│
-├── LinkList/
-│   ├── doubly_linkedlist.py
-│   ├── Playlist.py
-│   └── MusicPlaylistManager.py
-│
-├── Queue/
-│   ├── bankqueuesystem.py
-│   ├── customer.py
-│   └── main.py
-│
-└── Stack/
-    ├── stack.py
-    ├── expression_converter.py
-    ├── expression_evaluator.py
-    ├── parentheses_checker.py
-    └── simple_text_editor.py
+## Repository Structure
+
+- Graph
+  - Route Planner
+  - Social Network
+  - Weighted Graph
+
+- LinkList
+  - Doubly Linked List
+  - Music Playlist Manager
+
+- Queue
+  - Bank Queue System
+
+- Stack
+  - Expression Converter
+  - Expression Evaluator
+  - Parentheses Checker
+  - Simple Text Editor
 ---
 
 ## 🤝 Contributing
